@@ -1,0 +1,17 @@
+composer:
+  last: Zelenka
+  first: Jan Dismas
+title: Benedictus
+subtitle: inserted into Pisani’s mass
+genre: mass
+scoring: S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: D-Dl
+    shelfmark: Mus.2500-D-1
+    date: 1740–1745
+    rism: 211011537
+    url: https://digital.slub-dresden.de/id389939730
+    license: public domain
+    principal: true
